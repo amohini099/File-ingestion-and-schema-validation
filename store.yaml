@@ -1,0 +1,20 @@
+
+file_type: csv
+dataset_name: file
+file_name: yellow_tripdata_2015
+table_name: new_frame_cleaned
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - passenger_count
+      - trip_distance
+      - pickup_longitude
+      - pickup_latitude
+      - dropoff_longitude
+      - dropoff_latitude
+      - total_amount
+      - trip_times
+      - pickup_times
+      - Speed
+      - pickup_cluster
