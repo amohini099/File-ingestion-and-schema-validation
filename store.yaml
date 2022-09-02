@@ -1,7 +1,7 @@
 
 file_type: csv
 dataset_name: file
-file_name: yellow_tripdata_2015
+file_name: yellow_tripdata_2015-01
 table_name: new_frame_cleaned
 inbound_delimiter: ","
 outbound_delimiter: "|"
